@@ -1,0 +1,1 @@
+This repository is used to perform auto updates of the application.
